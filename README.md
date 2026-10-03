@@ -43,3 +43,4 @@ override.tf.json
 .terraformrc
 
 terraform.rc
+Новая строка, добавленная в ветке fix
